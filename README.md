@@ -22,7 +22,7 @@ Auto height and placeholder text view in Object-C for iOS.
 
 ## Screenshot
 
-![](https://github.com/mconintet/MOITextView/blob/master/screenshot.gif)
+![](https://raw.githubusercontent.com/mconintet/MOITextView/master/screenshot.gif)
 
 ## Installation
 
